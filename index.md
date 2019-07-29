@@ -32,3 +32,11 @@ News Sources - Only news sources that rank as [neutral and original fact reporti
 Government Source - Information that has come from the US, or a US allied, government.
 
 We are currently not accepting first hand accounts from sources within the government, as we are not currently set up to verify individuals and corroborate to an acceptable standard.  We will accept documents posted from such sources though, and use people we do trust to verify the documents.
+
+### How do I Contribute?
+
+First, you will need to create a GitHub account, remember to always use a VPN and passphrase.
+
+Next, create a new [issue](https://github.com/ImPeachMint/Resource/issues) or comment on an existing issue with content you believe should be added.  Always include your sources, and feel free to make suggestions.
+
+In the future we will ask people to make commits and pull requests.
