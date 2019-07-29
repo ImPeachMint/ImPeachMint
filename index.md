@@ -2,6 +2,8 @@
 
 First and foremost, **always use a VPN**.  If worst comes to worst, we don't want anyone to be able to track you down.  Also, **always use a passphrase** that includes uppercase, lowercase, numbers, and smybols, not just a password, we don't want anyone's account breached, and passwords are too short.
 
+### What is Resource?
+
 This project is about gathering information related to politics, including:
 - The President
 - Presidential Candidates
