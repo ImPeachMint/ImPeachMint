@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Resource
 
-You can use the [editor on GitHub](https://github.com/ImPeachMint/ImPeachMint/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+First and foremost, **always use a VPN**.  If worst comes to worst, we don't want anyone to be able to track you down.  Also, **always use a passphrase** that includes uppercase, lowercase, numbers, and smybols, not just a password, we don't want anyone's account breached, and passwords are too short.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project is about gathering information related to politics, including:
+- The President
+- Presidential Candidates
+- Congress Members
+- Policies
+- Media Bias
+- And any data we can get our hands on.
 
-### Markdown
+All information needs to be sourced, and we will be creating a credibility score system for high confidence information and above.  Any information that doesn't reach the bare minimum of high confidence will not be approve to be on here.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Credibility Score
 
-```markdown
-Syntax highlighted code block
+In order of most to least credible we will accept:
 
-# Header 1
-## Header 2
-### Header 3
+Original Source - Video, photos, audio, bills, amendments, signed legal documents, and other like material.
 
-- Bulleted
-- List
+Peer Reviewed - Data and information that reaches peer review standards, from scientists, historians, and other such sources.
 
-1. Numbered
-2. List
+News Sources - Only news sources that rank as [neutral and original fact reporting](https://www.adfontesmedia.com/), only those listed below for right now:
+- AP
+- Reuters
+- Bloomberg
+- C-Span
+- NPR
 
-**Bold** and _Italic_ and `Code` text
+Government Source - Information that has come from the US, or a US allied, government.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ImPeachMint/ImPeachMint/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We are currently not accepting first hand accounts from sources within the government, as we are not currently set up to verify individuals and corroborate to an acceptable standard.  We will accept documents posted from such sources though, and use people we do trust to verify the documents.
